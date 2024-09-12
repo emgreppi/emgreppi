@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/thebugdeveloper"><img src="https://api.daily.dev/devcards/v2/BLsdfytSBUiuVOUeQUTJ0.png?type=default&r=6m3" width="356" alt="Emanuele Greppi's Dev Card"/></a>
+<a href="https://app.daily.dev/emgreppi"><img src="https://api.daily.dev/devcards/v2/BLsdfytSBUiuVOUeQUTJ0.png?type=default&r=6m3" width="356" alt="Emanuele Greppi's Dev Card"/></a>
 
 <!--
 **emgreppi/emgreppi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
