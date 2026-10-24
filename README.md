@@ -7,6 +7,10 @@ Lately I'm deep into AI-assisted development: Claude Code, AI agents and MCP ser
 - 🌱 **Learning:** AI agents, MCP, prompt engineering for AL development
 - 💬 **Ask me about:** AL, BC extensions, telemetry, Claude Code workflows
 
+#### Projects (private)
+- 🌐 **Amici** – community website, kept for personal use
+- 🤖 **Claude-Remote** – remote control for Claude Code sessions *(archived – now covered natively by Claude apps)*
+
 #### Tech
 ![AL](https://img.shields.io/badge/AL-Business%20Central-0078D4?style=flat-square)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
@@ -18,4 +22,3 @@ Lately I'm deep into AI-assisted development: Claude Code, AI agents and MCP ser
 <a href="https://app.daily.dev/thebugdeveloper"><img src="https://api.daily.dev/devcards/v2/BLsdfytSBUiuVOUeQUTJ0.png?type=default&r=6m3" width="356" alt="Emanuele Greppi's Dev Card"/></a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=emgreppi&theme=github-dark-blue)](https://git.io/streak-stats)
-
