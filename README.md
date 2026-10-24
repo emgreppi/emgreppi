@@ -17,5 +17,5 @@ Lately I'm deep into AI-assisted development: Claude Code, AI agents and MCP ser
 #### Activity
 <a href="https://app.daily.dev/thebugdeveloper"><img src="https://api.daily.dev/devcards/v2/BLsdfytSBUiuVOUeQUTJ0.png?type=default&r=6m3" width="356" alt="Emanuele Greppi's Dev Card"/></a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=emgreppi&theme=monokai)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=emgreppi&theme=github-dark-blue)](https://git.io/streak-stats)
 
