@@ -3,9 +3,11 @@
 AL / Microsoft Dynamics 365 Business Central developer at **Salini Life GmbH** (Stuttgart, DE).
 Lately I'm deep into AI-assisted development: Claude Code, AI agents and MCP servers for Business Central.
 
-- 🔧 **Working on:** Business Central extensions in AL and internal reporting tooling
+- 🔧 **Working on:**
+  - Business Central extensions in AL
+  - A multi-tenant BC monitoring dashboard built on Application Insights telemetry (KQL)
+  - AI agents (Hermes Agent) interacting with Business Central via MCP
 - 🌱 **Learning:** AI agents, MCP, prompt engineering for AL development
-- 💬 **Ask me about:** AL, BC extensions, telemetry, Claude Code workflows
 
 #### Projects (private)
 - 🌐 **Amici** – community website, kept for personal use
